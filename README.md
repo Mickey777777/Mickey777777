@@ -122,6 +122,8 @@
 | [ClaudeUsageViewer](https://github.com/Mickey777777/ClaudeUsageViewer) | Claude API 사용량을 macOS 메뉴바에서 실시간 확인하는 앱.| Swift · macOS |
 | [Finite-Automata-Simulator](https://github.com/Mickey777777/Finite-Automata-Simulator) | DFA/NFA의 5-튜플을 입력하면 상태 다이어그램을 SVG로 그리고 입력 문자열의 Accept/Reject 시뮬레이션한다. | Vanilla JS · SVG |
 | [everytime-wallpaper-generator](https://github.com/Mickey777777/everytime-wallpaper-generator) | 에브리타임 시간표 이미지를 스마트폰 배경화면으로 변환하는 웹. | Vanilla JS · Canvas |
+| [2048-clone](https://github.com/Mickey777777/2048-clone) | Java Swing으로 구현한 2048 퍼즐 게임. | Java · Swing |
+| [javaChattingProgram](https://github.com/Mickey777777/javaChattingProgram) | 멀티 클라이언트 동시 접속과 브로드캐스트를 지원하는 콘솔 기반 채팅 서버/클라이언트. | Java · Socket |
 
 ---
 
