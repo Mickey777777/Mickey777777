@@ -103,20 +103,20 @@
 
 ## 🚀 Projects
 
-### 🔐 Security / Systems
+### Security / Systems
 
 | 프로젝트 | 설명 | Stack |
 |---|---|---|
 | [bof-visual-lab](https://github.com/Mickey777777/bof-visual-lab) | 브라우저에서 스택 버퍼 오버플로(BOF)를 시각적으로 실습할 수 있는 웹. | React · TS · Express · Docker · GDB |
 | [gdb-lab-platform](https://github.com/Mickey777777/gdb-lab-platform) | 웹 브라우저에서 진행하는 GDB 실습 플랫폼. | React · TS · xterm.js · dockerode |
 
-### 🌐 Full-stack
+### Full-stack
 
 | 프로젝트 | 설명 | Stack |
 |---|---|---|
 | Histolog | 조선왕조실록 기반 RAG 챗봇 — 정조·단종 등 임금과 대화하는 모바일 앱. [BE](https://github.com/Mickey777777/Histolog-be) · [AI](https://github.com/Mickey777777/Histolog-AI) · [FE](https://github.com/Mickey777777/Histolog-fe) | Spring Boot · FastAPI · FAISS · Gemini · React Native |
 
-### 🛠 Tools & Playground
+### Tools & Playground
 
 | 프로젝트 | 설명 | Stack |
 |---|---|---|
