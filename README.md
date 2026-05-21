@@ -106,22 +106,22 @@
 
 | 프로젝트 | 설명 | Stack |
 |---|---|---|
-| [bof-visual-lab](https://github.com/Mickey777777/bof-visual-lab) | 브라우저에서 스택 버퍼 오버플로(BOF)를 시각적으로 실습하는 교육용 랩. 입력값을 실행하면 GDB 스냅샷으로 레지스터·지역변수·스택 메모리의 변화를 단계별로 보여주고, return address가 `win()`으로 덮이는 과정을 추적한다. | React · TS · Express · Docker · GDB |
-| [gdb-lab-platform](https://github.com/Mickey777777/gdb-lab-platform) | 웹 브라우저에서 진행하는 GDB 실습 플랫폼. xterm.js 웹 터미널로 실제 Linux 컨테이너의 GDB를 직접 다루고, 명령 히스토리를 추적해 스테이지 완료를 자동 판정한다. | React · TS · xterm.js · dockerode |
+| [bof-visual-lab](https://github.com/Mickey777777/bof-visual-lab) | 브라우저에서 스택 버퍼 오버플로(BOF)를 시각적으로 실습할 수 있는 웹. | React · TS · Express · Docker · GDB |
+| [gdb-lab-platform](https://github.com/Mickey777777/gdb-lab-platform) | 웹 브라우저에서 진행하는 GDB 실습 플랫폼. | React · TS · xterm.js · dockerode |
 
 ### 🌐 Full-stack
 
 | 프로젝트 | 설명 | Stack |
 |---|---|---|
-| Histolog | 조선왕조실록 기반 RAG 챗봇 — 정조·단종 등 임금과 대화하는 모바일 앱. FAISS 검색 + Gemini 생성으로 사료 근거 답변을 만든다. [BE](https://github.com/Mickey777777/Histolog-be) · [AI](https://github.com/Mickey777777/Histolog-AI) · [FE](https://github.com/Mickey777777/Histolog-fe) | Spring Boot · FastAPI · FAISS · Gemini · React Native |
+| Histolog | 조선왕조실록 기반 RAG 챗봇 — 정조·단종 등 임금과 대화하는 모바일 앱. [BE](https://github.com/Mickey777777/Histolog-be) · [AI](https://github.com/Mickey777777/Histolog-AI) · [FE](https://github.com/Mickey777777/Histolog-fe) | Spring Boot · FastAPI · FAISS · Gemini · React Native |
 
 ### 🛠 Tools & Playground
 
 | 프로젝트 | 설명 | Stack |
 |---|---|---|
-| [ClaudeUsageViewer](https://github.com/Mickey777777/ClaudeUsageViewer) | Claude API 사용량을 macOS 메뉴바에서 실시간 확인하는 앱. Keychain의 OAuth 토큰을 읽어 별도 키 설정 없이 동작한다. | Swift · macOS |
-| [Finite-Automata-Simulator](https://github.com/Mickey777777/Finite-Automata-Simulator) | DFA/NFA의 5-튜플을 입력하면 상태 다이어그램을 SVG로 그리고 입력 문자열의 수락/거부를 시뮬레이션한다. λ-closure 지원. | Vanilla JS · SVG |
-| [everytime-wallpaper-generator](https://github.com/Mickey777777/everytime-wallpaper-generator) | 에브리타임 시간표 이미지를 스마트폰 배경화면으로 변환하는 웹 도구. 모든 처리는 브라우저에서 수행. | Vanilla JS · Canvas |
+| [ClaudeUsageViewer](https://github.com/Mickey777777/ClaudeUsageViewer) | Claude API 사용량을 macOS 메뉴바에서 실시간 확인하는 앱.| Swift · macOS |
+| [Finite-Automata-Simulator](https://github.com/Mickey777777/Finite-Automata-Simulator) | DFA/NFA의 5-튜플을 입력하면 상태 다이어그램을 SVG로 그리고 입력 문자열의 Accept/Reject 시뮬레이션한다. | Vanilla JS · SVG |
+| [everytime-wallpaper-generator](https://github.com/Mickey777777/everytime-wallpaper-generator) | 에브리타임 시간표 이미지를 스마트폰 배경화면으로 변환하는 웹. | Vanilla JS · Canvas |
 
 ---
 
