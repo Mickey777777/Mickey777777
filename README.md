@@ -6,7 +6,7 @@
 
 **CS @ Kyungpook National University · 27th President of KERT**
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=mickey7777)](https://solved.ac/mickey7777)
+[<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=mickey7777" height="170" />](https://solved.ac/mickey7777)
 [<img src="https://dreamhack-readme-stats.vercel.app/api/stats?username=Mickey7777&theme=dark" height="170" />](https://dreamhack.io/users/80647)
 
 </div>
