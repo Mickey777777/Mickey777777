@@ -137,6 +137,13 @@
 
 ---
 
+## 🥇 Awards
+
+- [2026 창업아이템 경진대회](https://cse.knu.ac.kr/bbs/board.php?bo_table=sub5_1&wr_id=29218) — 경북대 SW교육원 — **대상**
+- [월간 해커톤: Web Minigame Challenge](https://daker.ai/public/hackathons/monthly-hackathon-web-minigame-challenge) — DAKER — **1위**
+
+---
+
 ## 📬 Contact
 
 <div align="center">
