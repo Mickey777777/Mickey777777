@@ -116,10 +116,11 @@
 |---|---|---|
 | Histolog | 조선왕조실록 기반 RAG 챗봇 — 정조·단종 등 임금과 대화하는 모바일 앱. [BE](https://github.com/Mickey777777/Histolog-be) · [AI](https://github.com/Mickey777777/Histolog-AI) · [FE](https://github.com/Mickey777777/Histolog-fe) | Spring Boot · FastAPI · FAISS · Gemini · React Native |
 
-### Tools & Playground
+### Tools, Infra & Playground
 
 | 프로젝트 | 설명 | Stack |
 |---|---|---|
+| [homeserver-dashboard](https://github.com/Mickey777777/homeserver-dashboard) | 홈서버 셀프호스팅 모니터링 콘솔 | Go · React · TS · SQLite · Docker · Tailscale |
 | [Fall_Jjak](https://github.com/Mickey777777/Fall_Jjak)<br>[> Play](https://mickey777777.github.io/Fall_Jjak/) | 연잎에서 연잎으로 점프해 멀리 나아가는 3D 복셀 아케이드 웹 게임. | React Three Fiber · Three.js · TS · Zustand · Vite |
 | [ClaudeUsageViewer](https://github.com/Mickey777777/ClaudeUsageViewer) | Claude API 사용량을 macOS 메뉴바에서 실시간 확인하는 앱.| Swift · macOS |
 | [Finite-Automata-Simulator](https://github.com/Mickey777777/Finite-Automata-Simulator) | DFA/NFA의 5-튜플을 입력하면 상태 다이어그램을 SVG로 그리고 입력 문자열의 Accept/Reject 시뮬레이션한다. | Vanilla JS · SVG |
