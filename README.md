@@ -110,7 +110,7 @@
 | [bof-visual-lab](https://github.com/Mickey777777/bof-visual-lab) | 브라우저에서 스택 버퍼 오버플로(BOF)를 시각적으로 실습할 수 있는 웹. | React · TS · Express · Docker · GDB |
 | [gdb-lab-platform](https://github.com/Mickey777777/gdb-lab-platform) | 웹 브라우저에서 진행하는 GDB 실습 플랫폼. | React · TS · xterm.js · dockerode |
 | [Assultcube-Mod-Menu](https://github.com/Mickey777777/Assultcube-Mod-Menu) | 오픈소스 FPS AssaultCube의 메모리 구조를 분석해 만든 학습용 인터널 모드 메뉴. | C++ · Win32 API · MinHook · ImGui · OpenGL |
-| [web-scanner](https://github.com/Mickey777777/web-scanner) | 논블로킹 소켓과 `select()` 기반 멀티스레드 TCP 포트 스캐너. | C++ · POSIX Socket · Multithreading |
+| [web-scanner](https://github.com/Mickey777777/web-scanner) | 멀티스레드 TCP 포트 스캐너. | C++ · POSIX Socket · Multithreading |
 
 ### Full-stack
 
