@@ -105,11 +105,11 @@
 
 ## 🛡 CVE
 
-| CVE | 대상 | CVSS |
-|---|---|---|
-| [CVE-2026-62261](https://github.com/OpenIdentityPlatform/OpenAM/security/advisories/GHSA-5hgj-6j53-p729) | [OpenAM](https://github.com/OpenIdentityPlatform/OpenAM) `≤ 16.1.1` | **9.9 Critical** |
-| [CVE-2026-63125](https://github.com/lxc/incus/security/advisories/GHSA-6rqx-22hc-qm36) | [Incus](https://github.com/lxc/incus) `< 7.3.0` | **9.9 Critical** |
-| [CVE-2026-63294](https://github.com/canonical/lxd/security/advisories/GHSA-fv82-v4fj-mm4m) | [LXD](https://github.com/canonical/lxd) `< 4.0.12 · 5.0.8 · 5.21.6 · 6.10` | **9.9 Critical** |
+| CVE | 대상 | 유형 | CVSS |
+|---|---|---|---|
+| [CVE-2026-62261](https://github.com/OpenIdentityPlatform/OpenAM/security/advisories/GHSA-5hgj-6j53-p729) | [OpenAM](https://github.com/OpenIdentityPlatform/OpenAM) `≤ 16.1.1` | Authenticated RCE `CWE-94` | **9.9 Critical** |
+| [CVE-2026-63125](https://github.com/lxc/incus/security/advisories/GHSA-6rqx-22hc-qm36) | [Incus](https://github.com/lxc/incus) `< 7.3.0` | Root RCE `CWE-59` | **9.9 Critical** |
+| [CVE-2026-63294](https://github.com/canonical/lxd/security/advisories/GHSA-fv82-v4fj-mm4m) | [LXD](https://github.com/canonical/lxd) `< 4.0.12 · 5.0.8 · 5.21.6 · 6.10` | Root RCE `CWE-59` | **9.9 Critical** |
 
 ---
 
