@@ -148,7 +148,16 @@
 
 - 🔐 **KERT** (경북대학교 정보보안연구회) 26대 기술차장
 - 🔐 **KERT** (경북대학교 정보보안연구회) 27대 회장
-- 🛡️ **CTF** 출제 및 참가
+- 🛡️ **2026-1 KERT CTF** 문제 출제 — `web` · `pwn` · `misc`
+
+---
+
+## 🚩 CTF
+
+| 대회 | 주최 · 주관 | 결과 |
+|---|---|---|
+| [2026 KISIA 정보보호 경진대회](https://kisiactf.kr/) | 과학기술정보통신부 · KISIA | 예선 **2nd** / 163 teams · 본선 **12th** / 25 teams |
+| [BrunnerCTF 2026](https://ctftime.org/event/3065) | Brunnerne · SDU 🇩🇰 | **13th** / 1103 teams |
 
 ---
 
