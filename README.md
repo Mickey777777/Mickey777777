@@ -111,6 +111,7 @@
 | [CVE-2026-62368](https://github.com/grokability/snipe-it/security/advisories/GHSA-p9h3-gvpq-5539) | [Snipe-IT](https://github.com/grokability/snipe-it) `≤ 8.6.3` | Stored XSS → PrivEsc `CWE-79` | **8.1 High** |
 | [CVE-2026-63125](https://github.com/lxc/incus/security/advisories/GHSA-6rqx-22hc-qm36) | [Incus](https://github.com/lxc/incus) `< 7.3.0` | Root RCE `CWE-59` | **9.9 Critical** |
 | [CVE-2026-63294](https://github.com/canonical/lxd/security/advisories/GHSA-fv82-v4fj-mm4m) | [LXD](https://github.com/canonical/lxd) `< 4.0.12 · 5.0.8 · 5.21.6 · 6.10` | Root RCE `CWE-59` | **9.9 Critical** |
+| [CVE-2026-102674](https://github.com/electron/electron/security/advisories/GHSA-gr2m-v5gq-v685) | [Electron](https://github.com/electron/electron) `< 41.10.6 · 42.9.2 · 43.4.1 · 44.0.0-beta.5` | Sandbox Bypass `CWE-266` | **8.2 High** |
 
 ---
 
