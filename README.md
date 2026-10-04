@@ -158,6 +158,7 @@
 
 | 대회 | 주최 · 주관 | 결과 |
 |---|---|---|
+| [DefCamp CTF 2026 Quals](https://ctftime.org/event/3392) | CCSIR.org 🇷🇴 | **4th** / 372 teams |
 | [ASIS CTF Quals 2026](https://ctftime.org/event/3033) | ASIS | **26th** / 608 teams |
 | [2026 KISIA 정보보호 경진대회](https://kisiactf.kr/) | 과학기술정보통신부 · KISIA | 예선 **2nd** / 163 teams · 본선 **12th** / 25 teams |
 | [NNS CTF 2026](https://ctftime.org/event/3097) | Norske Nøkkelsnikere 🇳🇴 | **8th** / 887 teams |
