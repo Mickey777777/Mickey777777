@@ -160,6 +160,7 @@
 |---|---|---|
 | [DefCamp CTF 2026 Quals](https://ctftime.org/event/3392) | CCSIR.org 🇷🇴 | **4th** / 372 teams |
 | [ASIS CTF Quals 2026](https://ctftime.org/event/3033) | ASIS | **26th** / 608 teams |
+| [제2회 영남권 사이버 공격 방어 대회](https://view.asiae.co.kr/article/2026110417141931510) | 국가정보원 지부 · 부산광역시 외 | 예선 **2nd** / 63 teams · 본선 **1st** / 3 teams |
 | [2026 KISIA 정보보호 경진대회](https://kisiactf.kr/) | 과학기술정보통신부 · KISIA | 예선 **2nd** / 163 teams · 본선 **12th** / 25 teams |
 | [NNS CTF 2026](https://ctftime.org/event/3097) | Norske Nøkkelsnikere 🇳🇴 | **8th** / 887 teams |
 | [BrunnerCTF 2026](https://ctftime.org/event/3065) | Brunnerne · SDU 🇩🇰 | **13th** / 1102 teams |
@@ -168,8 +169,9 @@
 
 ## 🥇 Awards
 
-- [제6회 모의해킹 경진대회 우리콘(WooriCON)](https://spot.wooribank.com/pot/Dream?withyou=BPPBC0035&__STEP=1&ARTICLE_ID=65286) — 우리은행 · 금융보안원 — **우수상**
-- [2026 창업아이템 경진대회](https://cse.knu.ac.kr/bbs/board.php?bo_table=sub5_1&wr_id=29218) — 경북대 SW교육원 — **대상**
+- [제2회 영남권 사이버 공격 방어 대회](https://view.asiae.co.kr/article/2026110417141931510) — 국가정보원 지부 · 부산광역시 외 — **대상** (부산광역시장상)
+- [제6회 모의해킹 경진대회 우리콘(WooriCON)](https://spot.wooribank.com/pot/Dream?withyou=BPPBC0035&__STEP=1&ARTICLE_ID=65286) — 우리은행 · 금융보안원 — **우수상** (우리은행장상)
+- [2026 창업아이템 경진대회](https://cse.knu.ac.kr/bbs/board.php?bo_table=sub5_1&wr_id=29218) — 경북대 SW교육원 — **대상** (소프트웨어교육원장상)
 - [월간 해커톤: Web Minigame Challenge](https://daker.ai/public/hackathons/monthly-hackathon-web-minigame-challenge) — DAKER — **1위**
 
 ---
